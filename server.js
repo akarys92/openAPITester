@@ -1,7 +1,3 @@
-/**
- * An app for recommending concerts to Spotify users based on their listening habits
- */
-
 // External imports
 var express = require('express');
 var bodyParser = require('body-parser'); 
